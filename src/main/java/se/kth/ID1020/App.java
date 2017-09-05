@@ -8,6 +8,9 @@ public class App
     public static void main( String[] args )
     {
     RecursivePascal test = new RecursivePascal();
-     test.printPascal(40);
+        IterativePascal test2 = new IterativePascal();
+
+    // test.printPascal(40);
+        test2.printPascal(10);
     }
 }
