@@ -11,6 +11,6 @@ public class App
         IterativePascal test2 = new IterativePascal();
 
     // test.printPascal(40);
-        test2.printPascal(10);
+        test2.printPascal(40);
     }
 }

@@ -3,7 +3,7 @@ package se.kth.ID1020;
 
 import java.util.Arrays;
 
-public class IterativePascal
+public class IterativePascal extends ErrorPascal
         implements Pascal{
         int[][] pascalArray;
     private boolean reverse = true;

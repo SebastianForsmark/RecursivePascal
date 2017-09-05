@@ -2,7 +2,7 @@ package se.kth.ID1020;
 
 import java.util.HashMap;
 
-public class RecursivePascal
+public class RecursivePascal extends ErrorPascal
         implements Pascal{
 
     private int k, n, finalRow = -1;
